@@ -1,5 +1,6 @@
 #!/bin/bash
 # el 2017/04
+rm -R pomelos/src
 cp -r /home/xoldfusion/Descargas/openxava-5.6.1_pomelos/workspace/pomelos  pomelos
 
 cp "/home/xoldfusion/Descargas/openxava-5.6.1_pomelos/workspace/Servers/Tomcat v7.0 Server at localhost-config/server.xml"  /home/xoldfusion/Descargas/openxava-5.6.1_pomelos/tomcat/conf/
