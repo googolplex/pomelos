@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class AutorizantesPlanillas {
+public class AutorizantesPlanillas extends SuperClaseFeliz {
 
 }

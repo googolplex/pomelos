@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class SalidasAutorizacionBaja {
+public class SalidasAutorizacionBaja extends SuperClaseFeliz {
 
 }

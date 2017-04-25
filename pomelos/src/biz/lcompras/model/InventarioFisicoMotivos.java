@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class InventarioFisicoMotivos {
+public class InventarioFisicoMotivos extends SuperClaseFeliz {
 
 }

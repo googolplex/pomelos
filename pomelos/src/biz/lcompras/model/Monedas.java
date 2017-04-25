@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class Monedas {
+public class Monedas extends SuperClaseFeliz {
 
 }

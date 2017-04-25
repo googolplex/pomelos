@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class MercaderiasSucursales {
+public class MercaderiasSucursales extends SuperClaseFeliz {
 
 }

@@ -1,5 +1,5 @@
 package biz.lcompras.model;
 
-public class SalidasVentasDetalles {
+public class SalidasVentasDetalles extends SuperClaseFeliz {
 
 }
